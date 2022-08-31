@@ -25,12 +25,12 @@
     {
       "file": "functions.py",
       "description": "Let's try another example.\r\nThe example belows multiplies two specific numbers, saves the \r\nresult in a variable andf prints the value in the variable\r\n\r\n\r\nYour task is to make this function run. Try it and let us know your feedback.",
-      "line": 10
+      "line": 22
     },
     {
       "file": "functions.py",
       "description": "Your Final task is to create a new file called myFunctions.py. In the file do the follwing:\r\n- create a function to add three numbers and print the results\r\n- create a function to perform this arithmetic operation\r\n2+7-9*3-0.4 and print the results.\r\nGood luck and have fun coding 😉",
-      "line": 15
+      "line": 25
     }
   ]
 }
