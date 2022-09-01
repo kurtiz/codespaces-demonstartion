@@ -10,7 +10,7 @@
     {
       "file": "functions.py",
       "description": "```python\r\ndef name_of_function():\r\n    #block of code\r\n    something = \"Hello World\"\r\n    print(something)\r\n    \r\nname_of_function()\r\n```\r\nthis is the basic structure of a function in python. \r\n- Every function is defined with the key word \"def\".\r\n- Every function must have a name (naming a function is pretty much the same as \r\nnaming a variable)\r\n- Then it's preceeded with a set of parenthesis and a colon.\r\n- In python the curly brackets are not used to define a block of code.\r\nPython uses indents (four white spaces) to group blocks of codes\r\n- Your block of codes that perform your assigned tasks\r\n- Return value (this is optional depending on your needs).\r\nIn this session we will ignore returning data\r\n- To use a function, you have to call it.\r\n- To call a function, type the name of the function and add a set of Parenthesis.\r\n- Insert the code provided and run the it to see the outcome",
-      "line": 3
+      "line": 8
     },
     {
       "file": "functions.py",
